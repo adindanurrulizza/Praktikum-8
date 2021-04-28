@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "643725752973",
+    "project_id": "flutterfirebase-4a162",
+    "storage_bucket": "flutterfirebase-4a162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643725752973:android:fd14860d132ad8367740c4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_authentication_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643725752973-iup8ffp2israinpjenb9l573l0kdun64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_authentication_mobile",
+            "certificate_hash": "95378781dc2db073c641ff3fdfca4862f7dc91b7"
+          }
+        },
+        {
+          "client_id": "643725752973-stps3hs8hb87vpqce2ifel5rggo6ql6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtVruqnJrDejeJnvYqyREwGaiufcOuoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643725752973-stps3hs8hb87vpqce2ifel5rggo6ql6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643725752973:android:0e4ac7c9ac8b8c117740c4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643725752973-g14p6lb68957lrejubp6q1gnahuimjk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp",
+            "certificate_hash": "95378781dc2db073c641ff3fdfca4862f7dc91b7"
+          }
+        },
+        {
+          "client_id": "643725752973-stps3hs8hb87vpqce2ifel5rggo6ql6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANtVruqnJrDejeJnvYqyREwGaiufcOuoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643725752973-stps3hs8hb87vpqce2ifel5rggo6ql6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

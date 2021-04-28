@@ -1,7 +1,7 @@
 // Copyright (c) 2019 Souvik Biswas
 import 'package:flutter/material.dart';
-import 'package:flutterfirebase/login_page.dart';
-import 'package:flutterfirebase/sign_in.dart';
+import 'package:flutter_authentication_mobile/login_page.dart';
+import 'package:flutter_authentication_mobile/sign_in.dart';
 class FirstScreen extends StatelessWidget {
  @override
  Widget build(BuildContext context) {
