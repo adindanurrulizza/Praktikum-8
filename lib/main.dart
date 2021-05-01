@@ -8,7 +8,6 @@ class MyApp extends StatelessWidget {
   @override
    final routes = <String, WidgetBuilder>{
     RegisterPage.tag: (context) => RegisterPage(),
-    
   };
 
   Widget build(BuildContext context) {
